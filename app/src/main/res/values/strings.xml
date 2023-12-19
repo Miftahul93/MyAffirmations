@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Affirmations</string>
+    <string name="Affirmation1">Candi Borobudur, Magelang, Jawa Tengah</string>
+    <string name="Affirmation2">Danau Toba, Sumatera Utara</string>
+    <string name="Affirmation3">Gunung Bromo, Jawa Timur</string>
+    <string name="Affirmation4">Kawah Ijen, Banyuwangi, Jawa Timur</string>
+    <string name="Affirmation5">Kepulauan Raja Ampat, Papua Barat</string>
+    <string name="Affirmation6">Labuan Bajo, Nusa Tenggara Timur</string>
+    <string name="Affirmation7">Ngarai Sianok, Sumatera Barat</string>
+    <string name="Affirmation8">Nusa Penida, Bali</string>
+    <string name="Affirmation9">Terasering Tegallalang, Ubud, Bali</string>
+    <string name="Affirmation10">Wae Rebo, Nusa Tenggara Timur</string>
+</resources>
